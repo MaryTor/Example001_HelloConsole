@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mary\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Education\\C#_Lection\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectUniqueName": "D:\\Моё\\Обучение\\C#\\Example001_HelloConsole\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "D:\\Education\\C#_Lection\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-      "packagesPath": "C:\\Users\\Mary\\.nuget\\packages\\",
-      "outputPath": "D:\\Education\\C#_Lection\\Examples\\Example001_HelloConsole\\obj\\",
+      "projectPath": "D:\\Моё\\Обучение\\C#\\Example001_HelloConsole\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Моё\\Обучение\\C#\\Example001_HelloConsole\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mary\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

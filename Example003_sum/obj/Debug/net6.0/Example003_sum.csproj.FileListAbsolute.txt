@@ -1,0 +1,15 @@
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\bin\Debug\net6.0\Example003_sum.exe
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\bin\Debug\net6.0\Example003_sum.deps.json
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\bin\Debug\net6.0\Example003_sum.runtimeconfig.json
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\bin\Debug\net6.0\Example003_sum.dll
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\bin\Debug\net6.0\Example003_sum.pdb
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\obj\Debug\net6.0\Example003_sum.csproj.AssemblyReference.cache
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\obj\Debug\net6.0\Example003_sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\obj\Debug\net6.0\Example003_sum.AssemblyInfoInputs.cache
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\obj\Debug\net6.0\Example003_sum.AssemblyInfo.cs
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\obj\Debug\net6.0\Example003_sum.csproj.CoreCompileInputs.cache
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\obj\Debug\net6.0\Example003_sum.dll
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\obj\Debug\net6.0\refint\Example003_sum.dll
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\obj\Debug\net6.0\Example003_sum.pdb
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\obj\Debug\net6.0\Example003_sum.genruntimeconfig.cache
+D:\Моё\Обучение\C#\Example001_HelloConsole\Example003_sum\obj\Debug\net6.0\ref\Example003_sum.dll
